@@ -58,11 +58,6 @@
 | KNN                 | 98%         | 79%            |
 | Random Forest       | 99%         | 82%            |
 
-## 📽️ Demo
-
-<!-- Insert demo gif or screenshot -->
-![Demo GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-
 ## 📌 Requirements
 
 Install all dependencies:
